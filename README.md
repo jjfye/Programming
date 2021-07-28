@@ -3,6 +3,6 @@ This module required me to create a fully functional game using Processing3 whic
 
 ## License & Copyright
 
-© Jason Ye, Manchester Metropolitan University
+© Jason J F Ye, Manchester Metropolitan University
 
 Licensed under the [MIT License](LICENSE).
